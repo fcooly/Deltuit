@@ -17,6 +17,6 @@ This simple script deletes all the tweets of a given Twitter's account except fo
 
 ## Author
 
-* **Mario Herrero** 
+* **[Mario Herrero](https://github.com/fcooly)** 
 
-Inspired by the script in [Rinze's repository.](https://github.com/rinze/obliterate_tweets).
+Inspired by the script in [Rinze's repository.](https://github.com/rinze/obliterate_tweets)
