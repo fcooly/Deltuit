@@ -1,6 +1,6 @@
 ## DelTuit
 
-This simple script deletes all the tuits of a given account except for the last N by using the twitter archive.
+This simple script deletes all the tweets of a given Twitter's account except for the last N by using the twitter archive.
 
 ## Using the script
 
